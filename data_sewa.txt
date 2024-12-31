@@ -1,0 +1,15 @@
+Andi Pratama,1 Tenda Camping Deluxe 10x10,150000.00,27-12-2024,Pergi berkemah di alam terbuka dengan nyaman
+Budi Santoso,2 Sepatu Hiking Outdoor 42,50000.00,27-12-2024,Sepatu untuk pendakian dengan sol anti slip
+Citra Amalia,1 Kamera Outdoor DSLR,350000.00,27-12-2024,Mengabadikan momen saat mendaki gunung
+Dwi Rahayu,1 Matras Tidur Hiking,75000.00,27-12-2024,Matras ringan dan nyaman untuk tidur di alam
+Eka Suryo,2 Peralatan Memasak Portable,100000.00,27-12-2024,Peralatan untuk memasak di luar ruangan
+Fajar Yudha,1 Kompas Navigasi Outdoor,35000.00,27-12-2024,Membantu orientasi arah saat menjelajah alam
+Galih Pratama,1 Tali Pengaman Petualangan,20000.00,27-12-2024,Tali kuat untuk kegiatan outdoor dan pendakian
+Hilda Sari,1 Lampu Kepala LED,45000.00,27-12-2024,Lampu praktis untuk aktivitas malam hari di alam
+Irma Wahyuni,2 Tas Carrier 60L,120000.00,27-12-2024,Tas besar untuk membawa perlengkapan hiking
+Joko Santoso,1 Senter Tahan Air,65000.00,27-12-2024,Senter kuat yang tahan terhadap air dan debu
+Kiki Lestari,2 Alat Masak Portable Gas,85000.00,27-12-2024,Kompor portable untuk masak saat camping
+Lia Handayani,1 Hammock Outdoor 2P,95000.00,27-12-2024,Hammock ringan untuk tidur nyaman di alam terbuka
+Maya Arista,1 Tenda Keluarga 4P,180000.00,27-12-2024,Tenda luas untuk berkemah bersama keluarga
+Nina Adelia,1 Kursi Lipat Outdoor,40000.00,27-12-2024,Kursi ringan dan praktis untuk istirahat di luar
+Umi Mulyani,2 Gelasan,50000.000000,27-12-2024,Gelas lipat praktis untuk minum saat berkemah

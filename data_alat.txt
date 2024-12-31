@@ -1,0 +1,41 @@
+Tenda Camping Deluxe 10x10,20,150000.00,Pergi berkemah di alam terbuka dengan nyaman
+Sepatu Hiking Outdoor 42,15,50000.00,Sepatu untuk pendakian dengan sol anti slip
+Kamera Outdoor DSLR 25,10,350000.00,Mengabadikan momen saat mendaki gunung
+Matras Tidur Hiking 5,30,75000.00,Matras ringan dan nyaman untuk tidur di alam
+Peralatan Memasak Portable 8,12,100000.00,Peralatan untuk memasak di luar ruangan
+Kompas Navigasi Outdoor 15,25,35000.00,Membantu orientasi arah saat menjelajah alam
+Tali Pengaman Petualangan 20,18,20000.00,Tali kuat untuk kegiatan outdoor dan pendakian
+Lampu Kepala LED 10,22,45000.00,Lampu praktis untuk aktivitas malam hari di alam
+Tas Carrier 60L,10,120000.00,Tas besar untuk membawa perlengkapan hiking
+Senter Tahan Air,30,65000.00,Senter kuat yang tahan terhadap air dan debu
+Alat Masak Portable Gas,12,85000.00,Kompor portable untuk masak saat camping
+Hammock Outdoor 2P,18,95000.00,Hammock ringan untuk tidur nyaman di alam terbuka
+Tenda Keluarga 4P,8,180000.00,Tenda luas untuk berkemah bersama keluarga
+Kursi Lipat Outdoor,25,40000.00,Kursi ringan dan praktis untuk istirahat di luar
+Kantong Tidur Camping,22,70000.00,Kantong tidur hangat untuk malam di alam
+Penghangat Tangan Outdoor,15,30000.00,Menjaga tangan tetap hangat saat dingin
+Alat Pemadam Api Portable,20,120000.00,Alat untuk memadamkan api kecil di alam
+Peta Topografi Gunung,35,40000.00,Peta detil untuk pendakian gunung dan hutan
+Topi Hiking UV,28,25000.00,Topi untuk melindungi kepala dari sinar matahari
+Gelas Lipat Outdoor,18,25000.00,Gelas lipat praktis untuk minum saat berkemah
+Tenda Camping 2P Deluxe,00,120000.00,Tenda ringan untuk berkemah di alam terbuka
+Sepatu Hiking Adventure,00,55000.00,Sepatu hiking dengan desain ergonomis untuk perjalanan
+Kompas Arah Ekspedisi,00,35000.00,Kompas mekanik untuk petualangan di alam liar
+Lampu LED Portabel,00,45000.00,Sumber cahaya portabel untuk aktivitas malam di luar
+Alat Masak Outdoor Gas,00,80000.00,Peralatan masak portabel untuk aktivitas luar ruangan
+Pelampung Renang,00,25000.00,Alat pelampung untuk keamanan saat berenang di sungai
+Tenda Dome 3P,00,150000.00,Tenda dome untuk 3 orang dengan ventilasi baik
+Kantong Tidur Super Ringan,00,95000.00,Kantong tidur ringan untuk berkemah di gunung
+Jaket Hiking Tahan Angin,00,100000.00,Jaket tahan angin untuk cuaca dingin di pegunungan
+Tas Gunung 50L,00,125000.00,Tas gunung besar untuk membawa barang-barang perjalanan
+Topi Petualangan UV,00,30000.00,Topi pelindung untuk aktivitas luar ruangan yang terik
+Senter Tahan Guncangan,00,70000.00,Senter outdoor yang tahan terhadap guncangan
+Kursi Lipat Kompak,00,35000.00,Kursi lipat praktis untuk beristirahat di alam
+Gelas Stainless Outdoor,00,25000.00,Gelas tahan lama untuk minum saat berkemah
+Matras Tidur Travel,00,80000.00,Matras tidur mudah dibawa untuk perjalanan luar ruangan
+Pelindung Matahari Hiking,00,20000.00,Pelindung tubuh dari sinar matahari saat hiking
+Alat Pembersih Air,00,40000.00,Alat portable untuk membersihkan air dari sumber alam
+Ransel Daypack Hiking,00,85000.00,Ransel kecil untuk perjalanan singkat di alam terbuka
+Baterai Solar Outdoor,00,100000.00,Pengisi daya tenaga surya untuk perangkat elektronik
+Alat Penunjuk Arah GPS,00,300000.00,GPS portable untuk navigasi di alam bebas
+Gelasan,1,50000.00,Gelas lipat praktis untuk minum saat berkemah
